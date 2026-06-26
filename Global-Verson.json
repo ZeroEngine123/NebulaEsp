@@ -4,7 +4,7 @@
         "bgmi_LibLink": "https://github.com/ZeroEngine123/NebulaEsp/raw/refs/heads/main/libNebulaEsp.so"
     },
     {
-        "gl_version": "1.4",
+        "gl_version": "1.5",
         "gl_LibLink": "https://github.com/ZeroEngine123/NebulaEsp/raw/refs/heads/main/libNebulaGLOBAL.so"
     }
 ]
